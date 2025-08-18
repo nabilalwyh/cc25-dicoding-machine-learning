@@ -24,17 +24,18 @@ Program pelatihan teknologi informasi ini dirancang dengan standar tinggi untuk 
 
 
 # Result
-| **No.** | **Course**                                    | **Date**    | **Certificate Link**                                                                 |
-|---------|-----------------------------------------------|-------------|--------------------------------------------------------------------------------------|
-| 1       | Belajar Dasar AI                              | 02-18-2025  | [click here](https://www.dicoding.com/certificates/QLZ937WM2Z5D)                     |
-| 2       | Belajar Dasar Visualisasi Data                | 02-20-2025  | [click here](https://www.dicoding.com/certificates/4EXGV70Q9XRL)                     |
-| 3       | Belajar Dasar Structured Query Language (SQL) | 02-21-2025  | [click here](https://www.dicoding.com/certificates/N9ZO9953RXG5)                     |
-| 4       | Memulai Pemrograman dengan Python             | 02-25-2025  | [click here](https://www.dicoding.com/certificates/53XEDK56VPRN)                     |
-| 5       | Belajar Analisis Data dengan Python           | 03-05-2025  | [click here](https://www.dicoding.com/certificates/KEXL7Q55YXG2)                     |
-| 6       | Belajar Machine Learning untuk Pemula         | 03-23-2025  | [click here](https://www.dicoding.com/certificates/72ZD5REWVZYW)                     |
-| 7       | Belajar Fundamental Deep Learning             | 04-24-2025  | [click here](https://www.dicoding.com/certificates/4EXGV2MWEXRL)                     |
-| 8       | Belajar Fundamental Pemrosesan Data           | 05-12-2025  | [click here](https://www.dicoding.com/certificates/GRX5385YYZ0M)                     |
-| 9       | Machine Learning Terapan                      | 05-30-2025  | [click here](https://www.dicoding.com/certificates/KEXL7RR10XG2)                     |
+| **No.** | **Course**                                    | **Date**    | **Certificate Link**                                                                             |
+|---------|-----------------------------------------------|-------------|--------------------------------------------------------------------------------------------------|
+| 1       | Belajar Dasar AI                              | 02-18-2025  | [click here](https://www.dicoding.com/certificates/QLZ937WM2Z5D)                                 |
+| 2       | Belajar Dasar Visualisasi Data                | 02-20-2025  | [click here](https://www.dicoding.com/certificates/4EXGV70Q9XRL)                                 |
+| 3       | Belajar Dasar Structured Query Language (SQL) | 02-21-2025  | [click here](https://www.dicoding.com/certificates/N9ZO9953RXG5)                                 |
+| 4       | Memulai Pemrograman dengan Python             | 02-25-2025  | [click here](https://www.dicoding.com/certificates/53XEDK56VPRN)                                 |
+| 5       | Belajar Analisis Data dengan Python           | 03-05-2025  | [click here](https://www.dicoding.com/certificates/KEXL7Q55YXG2)                                 |
+| 6       | Belajar Machine Learning untuk Pemula         | 03-23-2025  | [click here](https://www.dicoding.com/certificates/72ZD5REWVZYW)                                 |
+| 7       | Belajar Fundamental Deep Learning             | 04-24-2025  | [click here](https://www.dicoding.com/certificates/4EXGV2MWEXRL)                                 |
+| 8       | Belajar Fundamental Pemrosesan Data           | 05-12-2025  | [click here](https://www.dicoding.com/certificates/GRX5385YYZ0M)                                 |
+| 9       | Machine Learning Terapan                      | 05-30-2025  | [click here](https://www.dicoding.com/certificates/KEXL7RR10XG2)                                 |
+| 10      | **Certificate of Completion**                 | 07-30-2025  | [click here](https://drive.google.com/file/d/19aIx9CATK-h92p2kCdweKanSgAVXZNl3/view?usp=sharing) |
 
 # Capstone Project
 [SAMPIS](https://github.com/Sampis-CodingCamp) adalah platform manajemen sampah berbasis website dan teknologi Machine Learning yang memungkinkan pengguna untuk:
