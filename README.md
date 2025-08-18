@@ -1,7 +1,7 @@
 # Coding Camp 2025 powered by DBS Foundation x Dicoding - Machine Learning Engineer
 Program pelatihan teknologi informasi ini dirancang dengan standar tinggi untuk mempersiapkan lulusan dengan keterampilan yang siap diterapkan dalam dunia kerja. Program ini merupakan hasil kolaborasi antara DBS Foundation dan Dicoding yang diselenggarakan sejak tahun 2022.
 
-# Modul Dicoding Dicoding
+# Modul Dicoding 
 
 - [x] [Belajar Dasar AI](https://www.dicoding.com/academies/653)
 - [x] [Belajar Dasar Visualisasi Data](https://www.dicoding.com/academies/177)
