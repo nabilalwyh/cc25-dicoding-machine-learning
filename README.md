@@ -8,7 +8,10 @@ Program pelatihan teknologi informasi ini dirancang dengan standar tinggi untuk 
 - Menghasilkan Sampoint, poin digital yang dapat ditukar dengan hadiah.
 
 Dalam project ini, saya berkontribusi seabagai Project Manager dan juga Machine Learning Engineer. Adapun kontribusi saya adalah sebagai berikut:
-- Menbuat dokumentasi product 
+- Menbuat dokumentasi product mulai dari Project Plan, Gantt Chart, Project Brief, PPT Project, dan video dokumentasi project
+- Berkoordinasi dengan team Dicoding, untuk memastikan bahwa project team SAMPIS berjalan sesuai timeline dan rencana
+- Mengumpulkan dan memastikan dataset yang digunakan modeling sudah bagus dan sesuai
+- Membangun model CNN dengan akurasi 93.64% pada data train dan 90.25% pada data validasi  
 
 
 # Modul Dicoding 
