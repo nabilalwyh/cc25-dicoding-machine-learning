@@ -1,6 +1,16 @@
 # Coding Camp 2025 powered by DBS Foundation x Dicoding - Machine Learning Engineer
 Program pelatihan teknologi informasi ini dirancang dengan standar tinggi untuk mempersiapkan lulusan dengan keterampilan yang siap diterapkan dalam dunia kerja. Program ini merupakan hasil kolaborasi antara DBS Foundation dan Dicoding yang diselenggarakan sejak tahun 2022.
 
+# Capstone Project
+[SAMPIS](https://github.com/Sampis-CodingCamp) adalah platform manajemen sampah berbasis website dan teknologi Machine Learning yang memungkinkan pengguna untuk:
+- Mengklasifikasikan jenis sampah rumah tangga secara otomatis, berdasarkan foto
+- Atar jemput sampah untuk ditukar menjadi Sampoint
+- Menghasilkan Sampoint, poin digital yang dapat ditukar dengan hadiah.
+
+Dalam project ini, saya berkontribusi seabagai Project Manager dan juga Machine Learning Engineer. Adapun kontribusi saya adalah sebagai berikut:
+- Menbuat dokumentasi product 
+
+
 # Modul Dicoding 
 
 - [x] [Belajar Dasar AI](https://www.dicoding.com/academies/653)
@@ -37,8 +47,3 @@ Program pelatihan teknologi informasi ini dirancang dengan standar tinggi untuk 
 | 9       | Machine Learning Terapan                      | 05-30-2025  | [click here](https://www.dicoding.com/certificates/KEXL7RR10XG2)                                 |
 | 10      | **Certificate of Completion**                 | 07-30-2025  | [click here](https://drive.google.com/file/d/19aIx9CATK-h92p2kCdweKanSgAVXZNl3/view?usp=sharing) |
 
-# Capstone Project
-[SAMPIS](https://github.com/Sampis-CodingCamp) adalah platform manajemen sampah berbasis website dan teknologi Machine Learning yang memungkinkan pengguna untuk:
-- Mengklasifikasikan jenis sampah rumah tangga secara otomatis, berdasarkan foto
-- Atar jemput sampah untuk ditukar menjadi Sampoint
-- Menghasilkan Sampoint, poin digital yang dapat ditukar dengan hadiah.
